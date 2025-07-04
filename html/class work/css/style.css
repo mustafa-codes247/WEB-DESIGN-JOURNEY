@@ -32,17 +32,17 @@ div{
     border-top-style:dashed;
     #but we can write this in 1 line
     */
-border-top:red 10px solid;
-border-bottom: yellow 10px dashed ;
-border-left:blue 10px solid;
-border-right:green 10px solid;
+   border-top:red 10px dashed yellow;
+   border-bottom: yellow 10px dashed rgb(27, 132, 173);
+   border-left:blue 30px dashed red;
+   border-right:green 10px double rgb(46, 216, 77);
 }
 
 .main{
 
     height: 200px;
     width: 300px;
-    border: 1px solid rgb(211, 203, 203);
+    border: 1px dashed rgb(193, 74, 74);
     text-align:justify;
 }
 
