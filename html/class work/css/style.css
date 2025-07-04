@@ -32,10 +32,10 @@ div{
     border-top-style:dashed;
     #but we can write this in 1 line
     */
-   border-top:red 10px dashed yellow;
-   border-bottom: yellow 10px dashed rgb(27, 132, 173);
-   border-left:blue 30px dashed red;
-   border-right:green 10px double rgb(46, 216, 77);
+   border-top:red 10px dashed ;
+   border-bottom: yellow 10px dashed;
+   border-left:blue 10px dashed;
+   border-right:green 10px double;
 }
 
 .main{
@@ -49,4 +49,9 @@ div{
 .c{
 
     text-align: center;
+}
+
+.d{
+
+    font-size: 25px;
 }
